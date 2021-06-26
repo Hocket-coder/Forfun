@@ -1,4 +1,5 @@
 # Forfun
 
 ## Ghana
-![map of Ghana](ghanamap2.svg)
+![map of Ghana](./Ghanamap2.svg)
+
